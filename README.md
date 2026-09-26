@@ -161,22 +161,6 @@ Entendo o ciclo de vida
 Depois aplico Spring
 ```
 
-## Próximos estudos
-
-Depois deste projeto, alguns conceitos relacionados que podem ser estudados:
-
-* Constructor Injection
-* Setter Injection
-* Field Injection
-* Dependency Injection
-* IoC
-* Bean Lifecycle
-* `@Lazy`
-* Singleton
-* Connection Pool
-* Transactions
-* `@Transactional`
-
 ## Conclusão
 
 Este projeto foi criado como um exercício prático para entender **Lazy Initialization em Java**, implementando manualmente a lógica de criação sob demanda.
